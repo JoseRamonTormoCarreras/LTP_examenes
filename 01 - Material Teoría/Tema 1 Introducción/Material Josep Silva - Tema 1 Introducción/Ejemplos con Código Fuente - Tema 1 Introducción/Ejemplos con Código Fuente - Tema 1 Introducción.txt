@@ -1,0 +1,2 @@
+Los siguientes enlaces contienen ejemplos reales (compilables y ejecutables en la máquina virtual de Java) sobre distintos aspectos vistos en teoría.
+Cada enlace contiene un fichero ZIP con ficheros Java y la salida esperada al ejecutarlos. 
